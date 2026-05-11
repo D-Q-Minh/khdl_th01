@@ -1,5 +1,8 @@
 # baitapthdata
+##### Họ tên: Dương Quang Minh
+##### MSSV: K225480106047
 
+# 
 -Cài đặt các máy ảo gồm máy chủ + 2 worker + kết nối mạng:
 
 <img width="1920" height="783" alt="image" src="https://github.com/user-attachments/assets/40593553-ee60-493c-a34a-cbde4cb38765" />
