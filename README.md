@@ -1,4 +1,5 @@
-# baitapthdata
+# Khoa học dữ liệu
+## Thực hành 01
 ##### Họ tên: Dương Quang Minh
 ##### MSSV: K225480106047
 
